@@ -20,10 +20,9 @@ msgstr ""
 
 #: editor/gui/editor_file_dialog.cpp scene/gui/file_dialog.cpp
 msgid "All Recognized"
-msgstr "Alla Erkända"
+msgstr "Alla kända"
 
 #: scene/gui/code_edit.cpp
-#, fuzzy
 msgid "New Code Region"
 msgstr "Ny kodregion"
 
@@ -76,17 +75,14 @@ msgid "Save"
 msgstr "Spara"
 
 #: scene/gui/color_picker.cpp
-#, fuzzy
 msgid "Save the current color palette to reuse later."
 msgstr "Lägg till nuvarande färg som en förinställning."
 
 #: scene/gui/color_picker.cpp
-#, fuzzy
 msgid "Save As"
 msgstr "Spara som"
 
 #: scene/gui/color_picker.cpp
-#, fuzzy
 msgid "Save the current color palette as a new to reuse later."
 msgstr "Lägg till nuvarande färg som en förinställning."
 
@@ -115,9 +111,8 @@ msgid "Select a picker shape."
 msgstr "Välj form för väljare."
 
 #: scene/gui/color_picker.cpp
-#, fuzzy
 msgid "Select a picker mode."
-msgstr "Välj väljarläge"
+msgstr "Välj färgväljarläge"
 
 #: scene/gui/color_picker.cpp
 msgid "Colorized Sliders"
@@ -260,7 +255,6 @@ msgid "You don't have permission to access contents of this folder."
 msgstr "Du har inte behörighet att komma åt innehållet i den här mappen."
 
 #: scene/gui/file_dialog.cpp
-#, fuzzy
 msgid "All Files"
 msgstr "Alla Filer (*)"
 
@@ -309,14 +303,12 @@ msgid "Refresh files."
 msgstr "Uppdatera filer."
 
 #: scene/gui/file_dialog.cpp
-#, fuzzy
 msgid "(Un)favorite current folder."
-msgstr "Gå till överordnad mapp."
+msgstr "Ta bort nuvarande mapp som favorit."
 
 #: scene/gui/file_dialog.cpp
-#, fuzzy
 msgid "Create a new folder."
-msgstr "Skapa nya noder."
+msgstr "Skapa en ny mapp."
 
 #: scene/gui/file_dialog.cpp
 msgid "Favorites:"
@@ -328,7 +320,7 @@ msgstr "Senaste:"
 
 #: scene/gui/file_dialog.cpp
 msgid "Directories & Files:"
-msgstr "Kataloger & Filer:"
+msgstr "Kataloger och filer:"
 
 #: scene/gui/file_dialog.cpp
 msgid "Toggle the visibility of hidden files."
@@ -343,9 +335,8 @@ msgid "View items as a list."
 msgstr "Visa objekt som lista."
 
 #: scene/gui/file_dialog.cpp
-#, fuzzy
 msgid "Toggle the visibility of the filter for file names."
-msgstr "Växla synligheten av dolda filer."
+msgstr "Växla synligheten av filter för dolda filer."
 
 #: scene/gui/file_dialog.cpp
 msgid "Sort files"
@@ -380,7 +371,6 @@ msgid "Filter:"
 msgstr "Filter:"
 
 #: scene/gui/file_dialog.cpp
-#, fuzzy
 msgid "Filename Filter:"
 msgstr "Filnamnsfilter:"
 
@@ -401,7 +391,6 @@ msgid "Could not create folder."
 msgstr "Kunde inte skapa mapp."
 
 #: scene/gui/file_dialog.cpp
-#, fuzzy
 msgid "Invalid extension, or empty filename."
 msgstr "Måste använda en giltigt filändelse."
 
@@ -439,14 +428,12 @@ msgid "Change the snapping distance."
 msgstr "Ändra fästningsavståndet."
 
 #: scene/gui/graph_edit.cpp
-#, fuzzy
 msgid "Toggle the graph minimap."
-msgstr "Ändra spårets läge till på/av."
+msgstr "Graf‑minikartan på/av."
 
 #: scene/gui/graph_edit.cpp
-#, fuzzy
 msgid "Automatically arrange selected nodes."
-msgstr "Alt+Dra: Skala markerad nod."
+msgstr "Ordna markerade noder automatiskt."
 
 #: scene/gui/graph_node.cpp
 msgid "graph node %s (%s)"
@@ -514,7 +501,6 @@ msgid "Auto-Detect Direction"
 msgstr "Upptäck riktning automatiskt"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
-#, fuzzy
 msgid "Left-to-Right"
 msgstr "Vänster-till-höger"
 
@@ -617,12 +603,10 @@ msgid "Redo"
 msgstr "Återställ"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
-#, fuzzy
 msgid "Text Writing Direction"
 msgstr "Textriktning (Text Writing Direction)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
-#, fuzzy
 msgid "Display Control Characters"
 msgstr "Visa kontrolltecken"
 
