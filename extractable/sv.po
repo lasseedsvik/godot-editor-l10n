@@ -25,51 +25,51 @@ msgstr "Alla Erkända"
 #: scene/gui/code_edit.cpp
 #, fuzzy
 msgid "New Code Region"
-msgstr "Animation"
+msgstr "Ny kodregion"
 
 #: scene/gui/color_mode.h
 msgid "Linear"
-msgstr ""
+msgstr "Linjär"
 
 #: scene/gui/color_picker.cpp
 msgid "Pick a color from the screen."
-msgstr ""
+msgstr "Välj en färg från skärmen"
 
 #: scene/gui/color_picker.cpp
 msgid "Pick a color from the application window."
-msgstr ""
+msgstr "Välj en färg från programfönstret"
 
 #: scene/gui/color_picker.cpp
 msgid "Alpha"
-msgstr ""
+msgstr "Alpha"
 
 #: scene/gui/color_picker.cpp
 msgid "Intensity"
-msgstr ""
+msgstr "Intesitet"
 
 #: scene/gui/color_picker.cpp
 msgid "Expr"
-msgstr ""
+msgstr "Expr"
 
 #: scene/gui/color_picker.cpp
 msgid "Hex"
-msgstr ""
+msgstr "Hex"
 
 #: scene/gui/color_picker.cpp
 msgid "Enter a hex code (\"#ff0000\") or named color (\"red\")."
-msgstr ""
+msgstr "Ange en hexadecimal kod (\"#ff0000\") eller namngiven färg (\"red\")."
 
 #: scene/gui/color_picker.cpp
 msgid "Load Color Palette"
-msgstr ""
+msgstr "Ladda färgpalett"
 
 #: scene/gui/color_picker.cpp
 msgid "Save Color Palette"
-msgstr ""
+msgstr "Spara färgpalett"
 
 #: scene/gui/color_picker.cpp
 msgid "The changes to this palette have not been saved to a file."
-msgstr ""
+msgstr "Ändringarna för denna palett har ej sparats till fil."
 
 #: scene/gui/color_picker.cpp scene/gui/file_dialog.cpp
 msgid "Save"
@@ -83,7 +83,7 @@ msgstr "Lägg till nuvarande färg som en förinställning."
 #: scene/gui/color_picker.cpp
 #, fuzzy
 msgid "Save As"
-msgstr "Spara"
+msgstr "Spara som"
 
 #: scene/gui/color_picker.cpp
 #, fuzzy
@@ -92,11 +92,11 @@ msgstr "Lägg till nuvarande färg som en förinställning."
 
 #: scene/gui/color_picker.cpp
 msgid "Load"
-msgstr ""
+msgstr "Ladda"
 
 #: scene/gui/color_picker.cpp
 msgid "Load existing color palette."
-msgstr ""
+msgstr "Ladda befintlig palett"
 
 #: scene/gui/color_picker.cpp scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Clear"
@@ -104,44 +104,44 @@ msgstr "Rensa"
 
 #: scene/gui/color_picker.cpp
 msgid "Clear the currently loaded color palettes in the picker."
-msgstr ""
+msgstr "Rensa den nuvarande paletten i färgväljaren som laddats."
 
 #: scene/gui/color_picker.cpp
 msgid "Pick"
-msgstr ""
+msgstr "Välj"
 
 #: scene/gui/color_picker.cpp
 msgid "Select a picker shape."
-msgstr ""
+msgstr "Välj form för väljare."
 
 #: scene/gui/color_picker.cpp
 #, fuzzy
 msgid "Select a picker mode."
-msgstr "Välj en Node"
+msgstr "Välj väljarläge"
 
 #: scene/gui/color_picker.cpp
 msgid "Colorized Sliders"
-msgstr ""
+msgstr "Färgade reglage"
 
 #: scene/gui/color_picker.cpp
 msgid "Hexadecimal Values"
-msgstr ""
+msgstr "Hexadecimala värden"
 
 #: scene/gui/color_picker.cpp
 msgid "Hex code or named color"
-msgstr ""
+msgstr "Hexadecimal kod eller namngiven färg"
 
 #: scene/gui/color_picker.cpp
 msgid "Swatches"
-msgstr ""
+msgstr "Färgrutor"
 
 #: scene/gui/color_picker.cpp
 msgid "Show all options available."
-msgstr ""
+msgstr "Visa alla tillgängliga alternativ"
 
 #: scene/gui/color_picker.cpp
 msgid "Recent Colors"
-msgstr ""
+msgstr "Nyligen använda färger"
 
 #: scene/gui/color_picker.cpp
 msgid "Add current color as a preset."
@@ -149,20 +149,24 @@ msgstr "Lägg till nuvarande färg som en förinställning."
 
 #: scene/gui/color_picker.cpp
 msgid "Screen Recording permission missing!"
-msgstr ""
+msgstr "Rättigheter fär skärminspelning saknas!"
 
 #: scene/gui/color_picker.cpp
 msgid ""
 "Screen Recording permission is required to pick colors from the other "
 "application windows.\n"
 "Click here to request access..."
-msgstr ""
+msgstr "Behörighet för skärminspelning krävs för att kunna välja färger "
+"från andra applikationsfönster.\n"
+"Klicka här för att begära åtkomst..."
 
 #: scene/gui/color_picker.cpp
 msgid ""
 "Color: %s\n"
 "LMB: Apply color"
 msgstr ""
+"Färg: %s\n"
+"VMK: Tillämpa färg"
 
 #: scene/gui/color_picker.cpp
 msgid ""
@@ -170,50 +174,53 @@ msgid ""
 "LMB: Apply color\n"
 "RMB: Remove preset"
 msgstr ""
+"Färg: %s\n"
+"VMK: Tillämpa färg\n"
+"HMK: Ta bort förinställning"
 
 #: scene/gui/color_picker.cpp
 msgid "Color: %s"
-msgstr ""
+msgstr "Färg: %s"
 
 #: scene/gui/color_picker_shape.h
 msgid "HSV Rectangle"
-msgstr ""
+msgstr "HSV-rektangel"
 
 #: scene/gui/color_picker_shape.h
 msgid "OK HS Rectangle"
-msgstr ""
+msgstr "OK HS‑rektangel"
 
 #: scene/gui/color_picker_shape.h
 msgid "OK HL Rectangle"
-msgstr ""
+msgstr "OK HL-rektangel"
 
 #: scene/gui/color_picker_shape.h
 msgid "HSV Wheel"
-msgstr ""
+msgstr "HSV-hjul"
 
 #: scene/gui/color_picker_shape.h
 msgid "VHS Circle"
-msgstr ""
+msgstr "VHS-cirkel"
 
 #: scene/gui/color_picker_shape.h
 msgid "OKHSL Circle"
-msgstr ""
+msgstr "OKHSL-cirkel"
 
 #: scene/gui/dialogs.cpp
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: scene/gui/dialogs.cpp
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: scene/gui/dialogs.cpp
 msgid "Alert!"
-msgstr ""
+msgstr "Varning!"
 
 #: scene/gui/dialogs.cpp
 msgid "Please Confirm..."
-msgstr ""
+msgstr "Var god bekräfta..."
 
 #: scene/gui/file_dialog.cpp
 msgid "Network"
@@ -242,15 +249,15 @@ msgstr "Välj denna mapp"
 #: scene/gui/file_dialog.cpp
 #, fuzzy
 msgid "Open in File Manager"
-msgstr "Öppna en Fil"
+msgstr "Öppna i filhanteraren"
 
 #: scene/gui/file_dialog.cpp
 msgid "Show Package Contents"
-msgstr ""
+msgstr "Visa paketets innehåll"
 
 #: scene/gui/file_dialog.cpp
 msgid "You don't have permission to access contents of this folder."
-msgstr ""
+msgstr "Du har inte behörighet att komma åt innehållet i den här mappen."
 
 #: scene/gui/file_dialog.cpp
 #, fuzzy
@@ -295,7 +302,7 @@ msgstr "Sökväg:"
 
 #: scene/gui/file_dialog.cpp
 msgid "Drive"
-msgstr ""
+msgstr "Enhet"
 
 #: scene/gui/file_dialog.cpp
 msgid "Refresh files."
@@ -313,11 +320,11 @@ msgstr "Skapa nya noder."
 
 #: scene/gui/file_dialog.cpp
 msgid "Favorites:"
-msgstr ""
+msgstr "Favoriter:"
 
 #: scene/gui/file_dialog.cpp
 msgid "Recent:"
-msgstr ""
+msgstr "Senaste:"
 
 #: scene/gui/file_dialog.cpp
 msgid "Directories & Files:"
@@ -329,11 +336,11 @@ msgstr "Växla synligheten av dolda filer."
 
 #: scene/gui/file_dialog.cpp
 msgid "View items as a grid of thumbnails."
-msgstr ""
+msgstr "Visa objekt som ett rutnät av miniatyrbilder."
 
 #: scene/gui/file_dialog.cpp
 msgid "View items as a list."
-msgstr ""
+msgstr "Visa objekt som lista."
 
 #: scene/gui/file_dialog.cpp
 #, fuzzy
@@ -342,40 +349,40 @@ msgstr "Växla synligheten av dolda filer."
 
 #: scene/gui/file_dialog.cpp
 msgid "Sort files"
-msgstr ""
+msgstr "Sortera filer"
 
 #: scene/gui/file_dialog.cpp
 msgid "Sort by Name (Ascending)"
-msgstr ""
+msgstr "Sortera efter namn (Stigande)"
 
 #: scene/gui/file_dialog.cpp
 msgid "Sort by Name (Descending)"
-msgstr ""
+msgstr "Sortera efter namn (Fallande)"
 
 #: scene/gui/file_dialog.cpp
 msgid "Sort by Type (Ascending)"
-msgstr ""
+msgstr "Sortera efter typ (Stigande)"
 
 #: scene/gui/file_dialog.cpp
 msgid "Sort by Type (Descending)"
-msgstr ""
+msgstr "Sortera efter typ (Fallande)"
 
 #: scene/gui/file_dialog.cpp
 msgid "Sort by Modified Time (Newest First)"
-msgstr ""
+msgstr "Sortera efter senast ändrad (Nyaste först)"
 
 #: scene/gui/file_dialog.cpp
 msgid "Sort by Modified Time (Oldest First)"
-msgstr ""
+msgstr "Sortera efter senast ändrad (Äldsta först)"
 
 #: scene/gui/file_dialog.cpp
 msgid "Filter:"
-msgstr ""
+msgstr "Filter:"
 
 #: scene/gui/file_dialog.cpp
 #, fuzzy
 msgid "Filename Filter:"
-msgstr "Öppna en Fil"
+msgstr "Filnamnsfilter:"
 
 #: scene/gui/file_dialog.cpp
 msgid "File:"
@@ -400,11 +407,11 @@ msgstr "Måste använda en giltigt filändelse."
 
 #: scene/gui/graph_edit.cpp
 msgid "connection to %s (%s) port %d"
-msgstr ""
+msgstr "anslutning till %s (%s) port %d"
 
 #: scene/gui/graph_edit.cpp
 msgid "connection from %s (%s) port %d"
-msgstr ""
+msgstr "anslutning från %s (%s) port %d"
 
 #: scene/gui/graph_edit.cpp
 msgid "Zoom Out"
@@ -425,11 +432,11 @@ msgstr "Växla synligheten av dolda filer."
 
 #: scene/gui/graph_edit.cpp
 msgid "Toggle snapping to the grid."
-msgstr ""
+msgstr "Växla fästning mot rutnätet."
 
 #: scene/gui/graph_edit.cpp
 msgid "Change the snapping distance."
-msgstr ""
+msgstr "Ändra fästningsavståndet."
 
 #: scene/gui/graph_edit.cpp
 #, fuzzy
@@ -443,145 +450,145 @@ msgstr "Alt+Dra: Skala markerad nod."
 
 #: scene/gui/graph_node.cpp
 msgid "graph node %s (%s)"
-msgstr ""
+msgstr "grafnod %s (%s)"
 
 #: scene/gui/graph_node.cpp
 msgid "slot %d of %d"
-msgstr ""
+msgstr "plats %d av %d"
 
 #: scene/gui/graph_node.cpp
 msgid "input port, type: %s"
-msgstr ""
+msgstr "inmatningsport, typ: %s"
 
 #: scene/gui/graph_node.cpp
 msgid "input port, type: %d"
-msgstr ""
+msgstr "inmatningsport, typ: %d"
 
 #: scene/gui/graph_node.cpp
 msgid "no connections"
-msgstr ""
+msgstr "inga anslutningar"
 
 #: scene/gui/graph_node.cpp
 msgid "output port, type: %s"
-msgstr ""
+msgstr "utgångsport, typ: %s"
 
 #: scene/gui/graph_node.cpp
 msgid "output port, type: %d"
-msgstr ""
+msgstr "utgångsport, typ: %d"
 
 #: scene/gui/graph_node.cpp
 msgid "currently selecting target port"
-msgstr ""
+msgstr "väljer för närvarande målport"
 
 #: scene/gui/graph_node.cpp
 msgid "has %d slots"
-msgstr ""
+msgstr "har %d platser"
 
 #: scene/gui/graph_node.cpp
 msgid "Edit Input Port Connection"
-msgstr ""
+msgstr "Redigera inmatningsportsanslutning"
 
 #: scene/gui/graph_node.cpp
 msgid "Edit Output Port Connection"
-msgstr ""
+msgstr "Redigera utgångsportsanslutning"
 
 #: scene/gui/graph_node.cpp
 msgid "Follow Input Port Connection"
-msgstr ""
+msgstr "Följ inmatningsportsanslutning"
 
 #: scene/gui/graph_node.cpp
 msgid "Follow Output Port Connection"
-msgstr ""
+msgstr "Följ utgångsportsanslutning"
 
 #: scene/gui/graph_node.cpp
 msgid ", in slot %d of graph node %s (%s)"
-msgstr ""
+msgstr ", i plats %d av grafnod %s (%s)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Same as Layout Direction"
-msgstr ""
+msgstr "Samma som layout‑riktning"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 #, fuzzy
 msgid "Auto-Detect Direction"
-msgstr "Riktningar"
+msgstr "Upptäck riktning automatiskt"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 #, fuzzy
 msgid "Left-to-Right"
-msgstr "Höger"
+msgstr "Vänster-till-höger"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Right-to-Left"
-msgstr ""
+msgstr "Höger-till-vänster"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Left-to-Right Mark (LRM)"
-msgstr ""
+msgstr "Vänster‑till‑höger‑märke (LRM)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Right-to-Left Mark (RLM)"
-msgstr ""
+msgstr "Höger‑till‑vänster‑märke (RLM)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Start of Left-to-Right Embedding (LRE)"
-msgstr ""
+msgstr "Start av vänster‑till‑höger‑inbäddning (LRE)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Start of Right-to-Left Embedding (RLE)"
-msgstr ""
+msgstr "Start av höger‑till‑vänster‑inbäddning (RLE)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Start of Left-to-Right Override (LRO)"
-msgstr ""
+msgstr "Start av vänster‑till‑höger‑åsidosättning (LRO)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Start of Right-to-Left Override (RLO)"
-msgstr ""
+msgstr "Start av höger‑till‑vänster‑åsidosättning (RLO)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Pop Direction Formatting (PDF)"
-msgstr ""
+msgstr "Avsluta riktningsformatering (PDF)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Arabic Letter Mark (ALM)"
-msgstr ""
+msgstr "Arabiskt bokstavsmärke (ALM)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Left-to-Right Isolate (LRI)"
-msgstr ""
+msgstr "Vänster‑till‑höger‑isolat (LRI)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Right-to-Left Isolate (RLI)"
-msgstr ""
+msgstr "Höger‑till‑vänster‑isolat (RLI)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "First Strong Isolate (FSI)"
-msgstr ""
+msgstr "Första starka isolat (FSI)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Pop Direction Isolate (PDI)"
-msgstr ""
+msgstr "Avsluta riktningsisolat (PDI)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Zero-Width Joiner (ZWJ)"
-msgstr ""
+msgstr "Nollbredds‑sammanfogare (ZWJ)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Zero-Width Non-Joiner (ZWNJ)"
-msgstr ""
+msgstr "Nollbredds‑icke‑sammanfogare (ZWNJ)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Word Joiner (WJ)"
-msgstr ""
+msgstr "Ordsammanfogare (WJ)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Soft Hyphen (SHY)"
-msgstr ""
+msgstr "Mjuk avstavningstecken (SHY)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Emoji & Symbols"
-msgstr ""
+msgstr "Emoji och symboler"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Cut"
@@ -612,12 +619,12 @@ msgstr "Återställ"
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 #, fuzzy
 msgid "Text Writing Direction"
-msgstr "Riktningar"
+msgstr "Textriktning (Text Writing Direction)"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 #, fuzzy
 msgid "Display Control Characters"
-msgstr "Giltiga tecken:"
+msgstr "Visa kontrolltecken"
 
 #: scene/gui/line_edit.cpp scene/gui/text_edit.cpp
 msgid "Insert Control Character"
